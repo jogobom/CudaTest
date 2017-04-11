@@ -1,5 +1,7 @@
+#pragma warning(push,0)
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
+#pragma warning(pop)
 
 TEST(ItFails, ExampleTests)
 {
